@@ -3,6 +3,10 @@ This is a small step in my web development journey, but it feels great to turn c
 This project is juat FOR purchasing electronic things,clothes,home stuffs.
 
 
+***CLICK ON FIRST-PROJECT***
+
+
+
 [project.html](https://github.com/user-attachments/files/24068125/project.html)
 <!DOCTYPE html>
 <html lang="en">
